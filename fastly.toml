@@ -6,7 +6,7 @@ description = "A basic starter kit that demonstrates routing, simple synthetic r
 language = "go"
 manifest_version = 3
 name = "Default starter for Go"
-service_id = "t9HHK4Roz74cVZ5PG5wtY6"
+service_id = "fGXklh0X8ZEv6UwC6AC2L1"
 
 [scripts]
     env_vars = ["GOARCH=wasm", "GOOS=wasip1"]
